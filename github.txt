@@ -1,0 +1,78 @@
+Git is Version control system (VCS) or source code management 
+its is used to track the changes in files
+it will maintain multiple version of the same file 
+it is platform independent
+its free and open sources 
+they are handle larger projects efficiently
+they dave time and developers can fetch and create pull request without switchinhg 
+
+
+vcs Histroy 
+
+1972                                2000         2005
+sccm      
+
+rcs         
+cvs     concurrent       
+svn     sub version 
+git         
+
+git like tool bitbucket
+
+ 
+git contains 3 stages
+
+1, working directory
+
+in this stage fit is only aware of having files in the project
+it will not track these files until we commit those files  
+
+2, staging area
+
+3, repository 
+
+types of repos
+
+1, local repo  :- .get file represents local repo
+
+2, central repo
+
+3, remote repo 
+
+create a git repo on the github login console 
+
+login in tower console ->> projects ->> create a new project ->> git ->> type details ->> save 
+
+credentials ->> create new credentials ->> cretentials type  ->> Sources Control ->> define git credentials 
+
+generate ssh key and copy the public key
+
+job ->> run 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create a git hub account 
+microsoft purchase github
+free and pro version 
+tell your experencies 
+create repository  
