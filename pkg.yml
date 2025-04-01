@@ -1,0 +1,8 @@
+- name: pkg installation 
+  hosts: managenode
+  tasks:
+  
+    - name: http installation 
+      yum:
+        name: httpd
+        state: present
